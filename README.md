@@ -17,8 +17,3 @@ I solved business-oriented questions to understand customer behavior, sales tren
 - Found most popular genres by country
 - Determined artist-wise revenue contribution
 
-## Skills Demonstrated
-- SQL Query Writing
-- Data Aggregation
-- Business Analysis
-- Relational Database Understanding
